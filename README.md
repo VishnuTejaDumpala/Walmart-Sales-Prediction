@@ -6,7 +6,7 @@ TIME SERIES ANALYSIS -SARIMA MODEL
 
 A retail store that has multiple outlets across the country are facing issues in managing the inventory - to match the demand with respect to supply. Dataset Information: The walmart.csv contains 6435 rows and 8 columns.
 
-# 1. You are provided with the weekly sales data for their various outlets. Use statistical analysis, EDA, outlier analysis, and handle the missing values to come up with various insights that can give them a clear perspective on the following:​
+### 1. You are provided with the weekly sales data for their various outlets. Use statistical analysis, EDA, outlier analysis, and handle the missing values to come up with various insights that can give them a clear perspective on the following:​
 
 a. If the weekly sales are affected by the unemployment rate, if yes - which stores are suffering the most?
 
@@ -22,7 +22,7 @@ c. Does temperature affect the weekly sales in any manner?
 ​f. The worst performing store, and how significant is the difference between the highest and lowest performing stores.
 
 
-# 2. Use predictive modeling techniques to forecast the sales for each store for the next 12 weeks.
+### 2. Use predictive modeling techniques to forecast the sales for each store for the next 12 weeks.
 Start - Steps Involved
 
 Step 1 - Importing all the required Libraries for Analysis
